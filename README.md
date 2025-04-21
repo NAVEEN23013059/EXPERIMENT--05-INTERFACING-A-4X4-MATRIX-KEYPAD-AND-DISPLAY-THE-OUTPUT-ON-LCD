@@ -1,5 +1,5 @@
 
-## DATE:9/4/25
+## DATE:21/4/25
 ## EX.NO:5
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
@@ -182,8 +182,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME : ibrahim fedah s
-REG NO : 212223240056
+NAME : NAVEEN.S
+REG NO : 212223240106
 ```
 ```
 #include "main.h"
